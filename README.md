@@ -18,3 +18,7 @@ This project is a futuristic landing page designed to showcase the power, impact
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tanishhkaa/AI-Visionary-Landing-Page.git
+
+## 🌐 Live Demo
+Check out the live demo of the AI Visionary Landing Page [here](https://ai-visionary-landing-page.vercel.app/).
+
